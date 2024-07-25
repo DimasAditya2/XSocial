@@ -1,5 +1,3 @@
-# GC01
-
 ## My Social App
 
 XSocial adalah aplikasi inovatif yang saya kembangkan dengan arsitektur client-server untuk perangkat mobile. Proyek ini menjadi salah satu aplikasi mobile pertama yang saya buat, dan merupakan pencapaian penting dalam perjalanan saya sebagai pengembang. Saya berusaha semaksimal mungkin untuk memastikan aplikasi ini tidak hanya berfungsi dengan baik, tetapi juga menjadi bagian yang menonjol dalam portofolio saya.
